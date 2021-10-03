@@ -1,10 +1,12 @@
-# Repository United State fix gagal update
-
+# Repository United State
 deb http://ftp.us.debian.org/debian/ buster main contrib non-free
 deb-src http://ftp.us.debian.org/debian/ buster main contrib non-free
-
 deb http://ftp.us.debian.org/debian/ buster-updates main contrib non-free
 deb-src http://ftp.us.debian.org/debian/ buster-updates main contrib non-free
-
 deb http://security.debian.org/ buster/updates main contrib non-free
 deb-src http://security.debian.org/ buster/updates main contrib non-free
+
+# Repository Indonesia Surabaya
+deb http://kartolo.sby.datautama.net.id/debian/ buster main contrib non-free
+deb http://kartolo.sby.datautama.net.id/debian/ buster-updates main contrib non-free
+deb http://kartolo.sby.datautama.net.id/debian-security/ buster/updates main contrib non-free
